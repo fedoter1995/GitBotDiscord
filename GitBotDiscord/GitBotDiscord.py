@@ -131,4 +131,4 @@ async def on_ready():
     print('------')
 
 bot.add_cog(Music(bot))
-bot.run('ODI5ODQ5Njk0MzYzOTc1NzIw.YG-HwA.hA8nFbDXoQZotBwnmRHHtQ_yErg')
+bot.run('dis_token')
